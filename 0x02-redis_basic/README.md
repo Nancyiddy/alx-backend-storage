@@ -1,7 +1,7 @@
 # 0x0B. Redis basic
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Emmanuel Turlay, Staff Software Engineer at Cruise  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+:bust_in_silhouette: by Nancy Idiong  
+:copyright: **[ALX School](https://www.alx.com/)**  
 :bookmark: redis
 
 ## Resources
@@ -36,5 +36,5 @@ $ sed -i "s/bind .*/bind 127.0.0.1/g" /etc/redis/redis.conf
 * [x] 5. Implementing an expiring web cache and tracker
 
 ## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+Nancy Idiong  
+:octocat: [GitHub](https://github.com/jnancyiddy/)
